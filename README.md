@@ -1,6 +1,7 @@
 
 
 Trabalho de Conclusão de Curso - PUC-RJ - Abril/2022
+
 Busca e filtra notícias do universo de combustíveis em site 
 
 Este Trabalho de conclusão de curso é composto de um script elaborado em Python e utiliza o modelo de aprendizado Transformer.

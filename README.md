@@ -1,5 +1,5 @@
 
-Perfil_dos_Participantes_da_TELOS_Fundação_Embratel_de_Seguridade_Social
+# Obenção de notícias da web e filtragem utilizando Transformers e similaridade dos cossenos
 
 #### Aluno: [Andrius Lopes do Nascimento / Yasmin Teixeira](https://github.com/Andrius-Lona/Andrius-Lona)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)

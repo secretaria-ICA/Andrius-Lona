@@ -26,7 +26,7 @@ Foi gerada uma lista de palavras e frases consideradas de elevada relevância no
 
 ### 3. Resultados
 
-Foram percorridas mais de 3100 notícias presentes no site e uma tabela de notícias com as informações relevantes  relacionadas ao universo dos combustíveis foi gerada. Uma visualização  filtrável das notícias relacionadas ao mundo dos combustíveis foi gerada usando o Power BI. 
+Foram percorridas mais de 3200 notícias presentes no site e uma tabela de notícias com as informações relevantes  relacionadas ao universo dos combustíveis foi gerada. Uma visualização  filtrável das notícias relacionadas ao mundo dos combustíveis foi gerada usando o Power BI. 
 
 ### 4. Conclusões
 

@@ -1,7 +1,7 @@
 
 # Obenção de notícias da web e filtragem utilizando Transformers e similaridade dos cossenos
 
-#### Aluno: [Andrius Lopes do Nascimento / Yasmin Teixeira](https://github.com/Andrius-Lona/Andrius-Lona)
+#### Aluno: [Andrius Lopes do Nascimento / Yasmin Costa e Silva Teixeira](https://github.com/Andrius-Lona/Andrius-Lona)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
 
 ---
@@ -39,6 +39,7 @@ O script elaborado permite que o tempo de busca, tratamento e estruturação da 
 ---
 
 Matrícula: 201.110.660
+           201.110.523 
 
 Pontifícia Universidade Católica do Rio de Janeiro
 

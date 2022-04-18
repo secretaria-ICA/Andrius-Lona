@@ -32,7 +32,7 @@ Foram percorridas mais de 3200 notícias presentes no site e uma tabela de notí
 
 Este trabalho teve por objetivo obter todas as notícias presentes no site https://www.gov.br/mme/pt-br/assuntos/noticias.
 Através da comparação, nota-se um elevado nível de similaridade semântica entre as notícias filtradas e a lista de palavras chave.
-O script elaborado permite que o tempo de busca, tratamento e estruturação da tabela de notícias filtradas seja ínfimo, quando comparado ao mesmo trabalho executado de maneira manual pelo ser humano 
+O script elaborado permite que o tempo de busca, tratamento e estruturação da tabela de notícias filtradas seja ínfimo, quando comparado ao mesmo trabalho executado de maneira manual pelo ser humano. 
 
 ---
 

@@ -10,7 +10,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-Este trabalho tem o objetivo de obter todas as notícias presentes no site https://www.gov.br/mme/pt-br/assuntos/noticias , aplicar tratamento sobre os dados coletados e efetuar a filtragem das notícias relacionadas ao universo dos combustíveis. As notícias filtradas são obtidas mediante a comparação do nível de similaridade dos cossenos entre o título de cada notícia e o conjunto de palavras definidas como alvos de busca.
+Este trabalho teve por objetivo obter todas as notícias presentes no site https://www.gov.br/mme/pt-br/assuntos/noticias , aplicar tratamento sobre os dados coletados e efetuar a filtragem das notícias relacionadas ao universo dos combustíveis. As notícias filtradas são obtidas mediante a comparação do nível de similaridade dos cossenos entre o título de cada notícia e o conjunto de palavras definidas como alvos de busca.
 
 ### 1. Introdução
 
@@ -30,6 +30,9 @@ Foram percorridas mais de 3200 notícias presentes no site e uma tabela de notí
 
 ### 4. Conclusões
 
+Este trabalho teve por objetivo obter todas as notícias presentes no site https://www.gov.br/mme/pt-br/assuntos/noticias.
+Através da comparação, nota-se um elevado nível de similaridade semântica entre as notícias filtradas e a lista de palavras chave.
+O script elaborado permite que o tempo de busca, tratamento e estruturação da tabela de notícias filtradas seja ínfimo, quando comparado ao mesmo trabalho executado de maneira manual pelo ser humano 
 
 ---
 

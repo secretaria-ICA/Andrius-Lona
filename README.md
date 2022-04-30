@@ -1,5 +1,5 @@
 
-# Obenção de notícias da web e filtragem utilizando Transformers e similaridade dos cossenos
+# Obtenção de notícias da web e filtragem utilizando Transformers e similaridade dos cossenos
 
 #### Aluno: [Andrius Lopes do Nascimento / Yasmin Costa e Silva Teixeira](https://github.com/Andrius-Lona/Andrius-Lona)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC) e [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8)
